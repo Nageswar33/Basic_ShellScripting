@@ -1,5 +1,5 @@
 a=10
-name=Nageswarao
+name="Nageswara Rao"
 b=10
 add=$((${a}+${b}))
 
